@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm IT student from Slovankia<br><br>- ✨ Creating bugs since 2021<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I maintain Linux server and do photography<br>- 🎯 My goal is to aply to university<br>- 🔗 Site https://dandythewood.github.io/danielmolda/</p>
+<p align="left">I'm IT student from Slovankia specialised in networking and linux<br><br>- ✨ Creating bugs since 2021<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I maintain my Linux server and do photography<br>- 🎯 My goal is to aply to university<br>- 🔗 Site https://dandythewood.github.io/danielmolda/</p>
 
 ###
 
