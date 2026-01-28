@@ -63,9 +63,6 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
 
-
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
