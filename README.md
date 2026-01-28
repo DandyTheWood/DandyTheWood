@@ -29,9 +29,9 @@
 ###
 
 <p align="left">I'm IT student from Slovankia specialised in networking and Linux<br><br>
-- ✨ Learning Linux, networking and programming since 2021<br>
-- 📚 I'm currently learning Java<br>
-- ⚡ In my free time I maintain my 3 Linux servers and NAS on Proxmox VM server and do photography<br>
+- ✨ Learning Linux, network technolohies and programming since 2021<br>
+- 📚 I'm currently learning Java(Understanding OOP) and Bash(Mainly for automation of certain tasks on my servers)<br>
+- ⚡ In my free time I maintain my 4 Linux servers and NAS(TrueNAS Scale) on Proxmox VM server and do photography<br>
 - 🎯 My goal is to get bachelor's degree in computer science<br>
 - 🔗 Site https://dandythewood.github.io/danielmolda/</p>
 
@@ -43,6 +43,10 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
@@ -56,7 +60,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
+
+
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
 
 ###
 
