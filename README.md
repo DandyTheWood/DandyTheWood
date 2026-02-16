@@ -56,8 +56,13 @@
 ###
 
 <div align="left">
-    <img src="[[https://www.credly.com/badges/13784329-d511-4d8f-9760-9e8e355e2d55/public_url](https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)" height="40" alt="CCNA1 badge"  />
+  <img
+    src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"
+    height="40"
+    alt="CCNA1 badge"
+  />
 </div>
+
 
 <a href="https://www.credly.com/users/danielmolda">Credly profile</a>
 ###
