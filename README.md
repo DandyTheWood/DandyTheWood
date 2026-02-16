@@ -17,7 +17,7 @@
 <p align="left">I'm IT student from Slovankia specialised in networking and Linux<br><br>
 - ✨ Learning Linux, network technolohies and programming since 2021<br>
 - 📚 I'm currently learning Java(Understanding OOP) and Bash(Mainly for automation of certain tasks on my servers)<br>
-- ⚡ In my free time I maintain my 4 Linux servers and NAS(TrueNAS Scale) on Proxmox VM server and do photography<br>
+- ⚡ In my free time I maintain my 4 Linux servers and NAS(TrueNAS Scale) on Proxmox VM server, and do photography<br>
 - 🎯 My goal is to get bachelor's degree in computer science<br>
 - 🔗 Site https://dandythewood.github.io/danielmolda/</p>
 
