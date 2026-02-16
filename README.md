@@ -51,6 +51,17 @@
 
 ###
 
+<h3 align="left">🏅   My badges :</h3>
+
+###
+
+<div align="left">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="13784329-d511-4d8f-9760-9e8e355e2d55" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
+
+<a href="https://www.credly.com/users/danielmolda">Credly profile</a>
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
