@@ -56,6 +56,7 @@
 ###
 
 <div align="left">
+  <img width="12" />
   <img
     src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"
     height="100"
