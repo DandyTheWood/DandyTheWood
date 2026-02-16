@@ -58,7 +58,7 @@
 <div align="left">
   <img
     src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"
-    height="40"
+    height="50"
     alt="CCNA1 badge"
   />
 </div>
