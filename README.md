@@ -56,7 +56,8 @@
 ###
 
 <div align="left">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="13784329-d511-4d8f-9760-9e8e355e2d55" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <img src="https://www.credly.com/badges/13784329-d511-4d8f-9760-9e8e355e2d55/public_url" height="40" alt="CCNA1 badge"  />
+  <img width="12" />
 </div>
 
 <a href="https://www.credly.com/users/danielmolda">Credly profile</a>
