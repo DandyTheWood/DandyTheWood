@@ -22,13 +22,16 @@ daniel@t480s:~$ neofetch
               `"""
 ```
 
-I'm a computer science student at the University of Žilina (FRI UNIZA), and I've been learning Linux and networking since 2021. I run Debian on my ThinkPad and a Proxmox homelab with AdGuard Home, Twingate, TrueNAS and a security lab. Right now I'm learning Java.
+I'm a computer science student at [FRI UNIZA](https://www.fri.uniza.sk/), and I help with IT and radio tech at student organization [RádioX](https://www.radiox.sk/). I've been learning Linux and networking since 2021. I run Debian on my ThinkPad and a Proxmox homelab with AdGuard Home, Twingate, TrueNAS and a security lab. Right now I'm learning Java.
 
 ## Stack
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
+[![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.cisco.com/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/)
@@ -40,6 +43,7 @@ I'm a computer science student at the University of Žilina (FRI UNIZA), and I'v
 [![Website](https://img.shields.io/badge/Website-danielmolda.isroot.in-A81D33?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://danielmolda.isroot.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danielmolda-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmolda/)
 [![YouTube](https://img.shields.io/badge/YouTube-@dandythewood-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@dandythewood)
+[![CV](https://img.shields.io/badge/CV-Download_PDF-A81D33?style=flat-square&logo=readthedocs&logoColor=white)](https://danielmolda.isroot.in/zivotopis-dmolda.pdf)
 
 > Most of my repos are private. Feel free to contact me.
 ###
